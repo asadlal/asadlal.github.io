@@ -752,6 +752,10 @@ img {
   transform: translateX(.25rem);
 }
 
+.portfolio__button{
+  cursor: pointer;
+}
+
 .swiper-button-prev::after,
 .swiper-button-next::after{
   content: '';
