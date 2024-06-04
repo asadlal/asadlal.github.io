@@ -327,6 +327,10 @@ img {
   margin-bottom: var(--mb-2);
 }
 
+.contact__button:hover .button__icon{
+  transform: translateX(.25rem);
+}
+
 .home__scroll{
   display: none;
 }
@@ -354,6 +358,7 @@ img {
 .home__scroll-arrow{
   font-size: 1.25rem;
 }
+
 
 
 /*==================== BUTTONS ====================*/
@@ -813,6 +818,10 @@ img {
   color: #fff;
 }
 
+.projectInMind__button:hover .button__icon{
+  transform: translateX(.25rem);
+}
+
 .project__img{
   width: 232px;
   justify-self: center;
@@ -933,6 +942,10 @@ img {
 }
 .alert__style{
   font-size: var(--small-font-size);
+}
+
+.sendMessage__button:hover .button__icon{
+  transform: translateX(.25rem);
 }
 
 
