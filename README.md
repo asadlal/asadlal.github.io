@@ -1,2 +1,2 @@
-# asadlal.github.io
+# asadlal.tech
 Portfolio website
